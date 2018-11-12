@@ -14,5 +14,25 @@ The purpose of this list is to enhance and promote efforts into research and dev
 
 5. [DeepfakeCapsuleGAN](https://github.com/snknitin/DeepfakeCapsuleGAN) Using Capsule GANs for deepfake generation
 
+6. [Large resolution facemasked](https://github.com/dfaker/df) , weirdly warped, deepfake.
+
+# Research Papers
+
+1. Deepfake Video Detection Using Recurrent Neural Networks [Paper](https://engineering.purdue.edu/~dgueraco/content/deepfake.pdf)
+
+2.  “Deep Fakes” using Generative Adversarial Networks (GAN) [Paper](http://noiselab.ucsd.edu/ECE228/Reports/Report16.pdf)
+
+3. Exposing DeepFake Videos By Detecting Face Warping Artifacts [paper](https://arxiv.org/abs/1811.00656)
+
+4. Image Forgery Detection [Paper](https://greghill.io/docs/mlp.pdf)
+
+5. Exposing AI Created Fake Videos by Detecting Eye Blinking [Paper](https://www.albany.edu/faculty/mchang2/files/2018_12_WIFS_EyeBlink_FakeVideos.pdf) 
+
+6. MesoNet: a Compact Facial Video Forgery Detection Network [Paper](https://arxiv.org/abs/1809.00888)
+
+7. Forensics Face Detection From GANs Using Convolutional Neural Network [Paper](https://www.researchgate.net/profile/Tai_Do_Nhu/publication/327905310_Forensics_Face_Detection_From_GANs_Using_Convolutional_Neural_Network/links/5bac84e7a6fdccd3cb768b1c/Forensics-Face-Detection-From-GANs-Using-Convolutional-Neural-Network.pdf)
+
+8. Using Capsule Networks to Detect Forged Images and Videos [Paper](https://arxiv.org/pdf/1810.11215)
+
 # Contributing
 Contributions to this list are always welcome! 

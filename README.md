@@ -34,5 +34,7 @@ The purpose of this list is to enhance and promote efforts into research and dev
 
 8. Using Capsule Networks to Detect Forged Images and Videos [Paper](https://arxiv.org/pdf/1810.11215)
 
+9. FakeCatcher: Detection of Synthetic Portrait Videos using Biological Signals [Paper](https://arxiv.org/pdf/1901.02212)
+
 # Contributing
 Contributions to this list are always welcome! 

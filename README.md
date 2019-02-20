@@ -38,5 +38,7 @@ The purpose of this list is to enhance and promote efforts into research and dev
 
 10. FaceForensics++: Learning to Detect Manipulated Facial Images [Paper](https://arxiv.org/pdf/1901.08971.pdf)
 
+11.Deep Video Protraits [Paper](https://web.stanford.edu/~zollhoef/papers/SG2018_DeepVideo/paper.pdf)
+
 # Contributing
 Contributions to this list are always welcome! 

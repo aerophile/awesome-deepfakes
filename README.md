@@ -20,7 +20,7 @@ The purpose of this list is to enhance and promote efforts into research and dev
 
 1. Deepfake Video Detection Using Recurrent Neural Networks [Paper](https://engineering.purdue.edu/~dgueraco/content/deepfake.pdf)
 
-2.  “Deep Fakes” using Generative Adversarial Networks (GAN) [Paper](http://noiselab.ucsd.edu/ECE228/Reports/Report16.pdf)
+2.  “Deep Fakes” using Generative Adversarial Networks (GAN) [Paper](http://noiselab.ucsd.edu/ECE228_2018/Reports/Report16.pdf)
 
 3. Exposing DeepFake Videos By Detecting Face Warping Artifacts [Paper](https://arxiv.org/abs/1811.00656)
 

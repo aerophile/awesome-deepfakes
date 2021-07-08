@@ -40,7 +40,7 @@ The purpose of this list is to enhance and promote efforts into research and dev
 
 10. FaceForensics++: Learning to Detect Manipulated Facial Images [Paper](https://arxiv.org/pdf/1901.08971.pdf)
 
-11. Deep Video Portraits [Paper](https://web.stanford.edu/~zollhoef/papers/SG2018_DeepVideo/paper.pdf) [Website](https://web.stanford.edu/~zollhoef/papers/SG2018_DeepVideo/page.html)
+11. Deep Video Portraits [Paper](https://arxiv.org/pdf/1805.11714.pdf) [Website](https://gvv.mpi-inf.mpg.de/projects/DeepVideoPortraits/)
 
 12. Disrupting Deepfakes: Adversarial Attacks Against Conditional Image Translation Networks and Facial Manipulation Systems [Code](https://github.com/natanielruiz/disrupting-deepfakes) [Demo](https://www.youtube.com/watch?v=7_7r4Ng4-bE&feature=youtu.be) [Paper](https://arxiv.org/abs/2003.01279)
 

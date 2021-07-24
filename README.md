@@ -44,5 +44,7 @@ The purpose of this list is to enhance and promote efforts into research and dev
 
 12. Disrupting Deepfakes: Adversarial Attacks Against Conditional Image Translation Networks and Facial Manipulation Systems [Code](https://github.com/natanielruiz/disrupting-deepfakes) [Demo](https://www.youtube.com/watch?v=7_7r4Ng4-bE&feature=youtu.be) [Paper](https://arxiv.org/abs/2003.01279)
 
+13. Generalized Zero and Few-Shot Transfer for Facial Forgery Detection [Paper](https://arxiv.org/abs/2006.11863) [Website](https://shivangi-aneja.github.io/projects/ddt/index.html)
+
 # Contributing
 Contributions to this list are always welcome! 

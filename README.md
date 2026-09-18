@@ -18,6 +18,8 @@ The purpose of this list is to enhance and promote efforts into research and dev
 
 7. [Disrupting Deepfakes](https://github.com/natanielruiz/disrupting-deepfakes): Defending against image translation deepfakes using adversarial attacks.
 
+8. [Sealed Rose](https://sealedrose.com/verify-video): In-browser AI deepfake and synthetic video detection platform.
+
 # Research Papers
 
 1. Deepfake Video Detection Using Recurrent Neural Networks [Paper](https://engineering.purdue.edu/~dgueraco/content/deepfake.pdf)

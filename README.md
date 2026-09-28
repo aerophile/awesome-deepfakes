@@ -18,6 +18,8 @@ The purpose of this list is to enhance and promote efforts into research and dev
 
 7. [Disrupting Deepfakes](https://github.com/natanielruiz/disrupting-deepfakes): Defending against image translation deepfakes using adversarial attacks.
 
+8. [isthisaigenerated.app](https://isthisaigenerated.app/site/ai-image-detector/): Free in-browser checks for AI-generation warning signals in images, text, documents and sampled video, with published measurements and explicit warning-only limits.
+
 # Research Papers
 
 1. Deepfake Video Detection Using Recurrent Neural Networks [Paper](https://engineering.purdue.edu/~dgueraco/content/deepfake.pdf)
